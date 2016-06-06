@@ -1,7 +1,7 @@
 # 1c-front-end
 
 [cat](https://octodex.github.com/images/yaktocat.png)
-
+![cat](https://octodex.github.com/images/yaktocat.png)
 
 
 # Structured documents
