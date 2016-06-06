@@ -1,7 +1,5 @@
 # 1c-front-end
-email of cat (ссылка на кота)
-  https://octodex.github.com/images/yaktocat.png
-[email of cat (ссылка на кота)](https://octodex.github.com/images/yaktocat.png)
+![email of cat ссылка на кота](https://octodex.github.com/images/yaktocat.png)
 
 
 
